@@ -25,7 +25,7 @@ class staffClass:
     def __init__(self,root):
         self.root=root
         self.root.geometry("1350x700+0+0")
-        self.root.title("Along Home Healthcare | Developed by Brijesh | July | 9998002712")
+        self.root.title("Along Home Healthcare | Developed by FreeSoft | July | 9998002712")
         self.root.config(bg="white")
         self.root.focus_force()
         # All Variables================
